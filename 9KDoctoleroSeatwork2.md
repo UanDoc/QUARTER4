@@ -60,4 +60,10 @@
 - I don't want to do these.
 
 3. Reflection questions:
-- a. 
+a. The summaries of the positioning tags for static, relative, absolute, and fixed are the following: STATIC - The default value of any element in a website, thus following the usual flow of the website, RELATIVE - Allows the element to move without affecting the surrounding elements, ABSOLUTE - The element is guided by the ancestor element, FIXED - Remains fixed in the alloted position, because a FIXED element's position is dependent on the viewport.
+
+b. It works by removing an element entirely from the normal document flow and positioning it to its nearest positioned ancestor.
+
+c. Sticky moves with respect to a threshold, where sticky moves with respect to a specific area unlike fixed where it remains in one area.
+
+d. Positioning assists you with showing the most important parts of the website. For example, you could use sticky for the header for easy navigation.
